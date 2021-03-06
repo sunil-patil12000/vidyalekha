@@ -1,9 +1,9 @@
 package com.kleploytech.vidyalekha.module;
 
-public class stdmodel {
+public class Stdmodel {
     String reg,name,sem,phone;
 
-    public stdmodel(String reg, String name, String sem, String phone) {
+    public Stdmodel(String reg, String name, String sem, String phone) {
         this.reg = reg;
         this.name = name;
         this.sem = sem;
