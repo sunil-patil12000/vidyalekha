@@ -36,7 +36,7 @@ public class stdadapater extends RecyclerView.Adapter<stdadapater.stdviweholder>
     @Override
     public void onBindViewHolder(@NonNull stdviweholder holder, int position) {
        stdmodel.get(position);
-       holder.reg.setText();
+
 
     }
 
